@@ -17,6 +17,6 @@
 
 ## 📫 Connect with Me  
 - 🌐 [GitHub](https://github.com/livexords-nw)  
-- ✉️ Email: *livexords@awangawang.com*  
+- ✉️ Email: *livexords@gmail.com*  
 
 ---
