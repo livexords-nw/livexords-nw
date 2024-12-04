@@ -30,7 +30,7 @@ I love exploring new tools and technologies, solving real-world problems, and co
 
 ## 🐍 Snake Animation
 
-![Snake Animation](https://github.com/livexords-nw/livexords-nw/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://github.com/livexords-nw/livexords-nw/blob/output/snake.svg)
 
 ---
 
