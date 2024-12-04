@@ -1,6 +1,6 @@
 # 🌟 Welcome to My GitHub Profile! 👋
 
-Hi there! I'm **Muhammad Habib**, a passionate developer and enthusiast in open-source projects, automation, and mining technologies.  
+Hi there! I'm **Livexords**, a passionate developer and enthusiast in open-source projects, automation, and mining technologies.  
 I love exploring new tools and technologies, solving real-world problems, and contributing to the developer community.
 
 ---
