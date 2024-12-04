@@ -3,7 +3,7 @@ name: Generate Snake Animation
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *" # Menjalankan setiap hari
+    - cron: "0 0 * * *" # Jalankan setiap hari
 
 jobs:
   generate:
@@ -16,9 +16,17 @@ jobs:
         uses: Platane/snk@v2
         with:
           github_user_name: livexords-nw
-          outputs: dist/snake.svg
+          outputs: dist/github-snake.svg
 
-      - name: Upload Animation to GitHub Pages
+      - name: Generate Snake Animation (Dark Mode)
+        uses: Platane/snk@v2
+        with:
+          github_user_name: livexords-nw
+          outputs: dist/github-snake-dark.svg
+          color_snake: 000000
+          color_dots: 6b6b6b
+
+      - name: Upload to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2
         with:
           target_branch: output

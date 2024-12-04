@@ -28,9 +28,12 @@ I love exploring new tools and technologies, solving real-world problems, and co
 
 ---
 
-## 🐍 Snake Animation
 
-![Snake Animation](https://github.com/livexords-nw/livexords-nw/blob/output/snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/livexords-nw/livexords-nw/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/livexords-nw/livexords-nw/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/livexords-nw/livexords-nw/output/github-snake.svg" />
+</picture>
 
 ---
 
