@@ -1,32 +1,38 @@
-# 🌟 Welcome to My GitHub Profile! 👋
+<h1 align="center">👋 Hi, I'm Livexords</h1>
 
-Hi there! I'm **Livexords**, a passionate developer and enthusiast in open-source projects, automation, and mining technologies.  
-I love exploring new tools and technologies, solving real-world problems, and contributing to the developer community.
+###
 
----
+<h2 align="left">🎓 About me</h2>
 
-## 🔧 Technologies & Tools
-- 💻 **Languages**: Rust, Python, JavaScript, PHP, Dart
-- 🛠️ **Frameworks & Libraries**: Node.js, Flutter, Laravel
-- 📂 **Databases**: MySQL, SQLite
-- ⚙️ **Tools**: Neovim, Termux, Visual Studio Code
-- 🔗 **Interests**: Cryptocurrency mining, bot automation, API integration
+###
 
----
+<p align="left">I'm an enthusiastic developer currently honing my skills in automation, web development, and bot programming.  <br>I love exploring new technologies and building solutions that simplify workflows and processes.</p>
 
-## 📊 GitHub Stats
+###
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=livexords-nw&show_icons=true&theme=radical)
+<h2 align="left">🌟 Quick Facts</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livexords-nw&layout=compact&theme=radical)
+###
 
----
+<p align="left">✨ Creating bugs since: 2023 (and constantly learning to fix them!)  <br>📚 **Currently learning:** Rust, Python, and advanced Git workflows  <br>🎯 **Goals:**  <br>- Automate repetitive tasks  <br>- Contribute to open-source projects  <br>- Master system-level programming  <br><br>🎲 **Fun fact:** Debugging feels like solving mysteries—except it’s code instead of clues! 🕵️‍♂️</p>
 
-## 📈 Contribution Graph
+###
 
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=livexords-nw&theme=dracula&hide_border=true&area=true)
+<h2 align="left">🛠️ Languages and Tools</h2>
 
----
+###
+
+<p align="left">- Languages: Python, JavaScript, HTML, Rust  <br>- Tools: Git, VSCode, Termux, and more</p>
+
+###
+
+<h2 align="left">📊 GitHub Stats</h2>
+
+###
+
+<p align="left">- **Languages:** Python, JavaScript, HTML, Rust  <br>- **Tools:** Git, VSCode, Termux, and more</p>
+
+###
 
 
 <picture>
