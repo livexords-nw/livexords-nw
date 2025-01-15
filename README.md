@@ -20,15 +20,7 @@
 
 ###
 
-<p align="left">I'm an enthusiastic developer currently honing my skills in automation, web development, and bot programming. I love exploring new technologies and building solutions that simplify workflows and processes.</p>
-
-###
-
-<h3 align="left">🌟 Quick Facts</h3>
-
-###
-
-<p align="left">✨ Creating bugs since: 2019 (and constantly learning to fix them!)  <br>📚 Currently learning: Rust, Python, and advanced Git workflows  <br>🎯 Goals: <br>- Automate repetitive tasks  <br>- Contribute to open-source projects  <br>- Master system-level programming  <br><br>🎲 Fun fact: Debugging feels like solving mysterie-except it’s code instead of clues! 🕵️‍♂️</p>
+<p align="left">I'm just an ordinary programmer who loves creating bots and exploring new technologies. I enjoy solving problems and automating tasks through programming.</p>
 
 ###
 
