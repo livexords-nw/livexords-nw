@@ -14,7 +14,7 @@ I'm just an ordinary programmer who loves creating bots and exploring new techno
 <a href="https://www.github.com/livexords-nw" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/livexords-nw?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <a href="https://www.github.com/livexords-nw" target="_blank" rel="noreferrer">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=livexords-nw.livexords-nw&left_color=1c1917&right_color=0891b2&style=for-the-badge" alt="Visitor Badge" />
+  <<img src="https://visitor-badge.laobi.icu/badge?page_id=livexords-nw.livexords-nw&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Visitor Badge" />
 </a>
 
 ### Skills
