@@ -29,6 +29,6 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add README.md
+          git add LISTREPO.md
           git commit -m "📝 auto-update repo list"
           git push
