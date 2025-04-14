@@ -11,10 +11,10 @@ Each section below represents the first letter of the repository name.
 > 📝 Fishing Frenzy Automation
 > 🧾 Commits: 21
 
-## 🛠️ Most Committed Repo: [airfarmbot](https://github.com/livexords-nw/airfarmbot)
-> 🧾 52 commits
-> 📝 Manage Your Script Bot With AirFarmBot
-> 🌟 12 stars
+## 🛠️ Most Committed Repo: [livexords-nw](https://github.com/livexords-nw/livexords-nw)
+> 🧾 53 commits
+> 📝 Config files for my GitHub profile.
+> 🌟 8 stars
 
 ## A
 ### 📦 [ackinacki-bot](https://github.com/livexords-nw/ackinacki-bot)  
@@ -102,7 +102,7 @@ Each section below represents the first letter of the repository name.
 ### 📦 [livexords-nw](https://github.com/livexords-nw/livexords-nw)  
 > 🌟 8 stars • 🔄 Updated: 2025-04-14 • 📅 Created: 2024-11-09  
 > 📝 Config files for my GitHub profile.  
-> 🧾 Commits: 52
+> 🧾 Commits: 53
 
 
 ## M
