@@ -7,12 +7,12 @@ Each section below represents the first letter of the repository name.
 
 <!-- START -->
 ## 🏆 Most Starred Repo: [fishingfrenzy-bot](https://github.com/livexords-nw/fishingfrenzy-bot)
-> 🌟 27 stars
+> 🌟 26 stars
 > 📝 Fishing Frenzy Automation
 > 🧾 Commits: 23
 
 ## 🛠️ Most Committed Repo: [livexords-nw](https://github.com/livexords-nw/livexords-nw)
-> 🧾 84 commits
+> 🧾 85 commits
 > 📝 Config files for my GitHub profile.
 > 🌟 8 stars
 
@@ -76,7 +76,7 @@ Each section below represents the first letter of the repository name.
 > 🧾 Commits: 6
 
 ### 📦 [fishingfrenzy-bot](https://github.com/livexords-nw/fishingfrenzy-bot)  
-> 🌟 27 stars • 🔄 Updated: 2025-04-15 • 📅 Created: 2025-02-01  
+> 🌟 26 stars • 🔄 Updated: 2025-04-15 • 📅 Created: 2025-02-01  
 > 📝 Fishing Frenzy Automation  
 > 🧾 Commits: 23
 
@@ -102,7 +102,7 @@ Each section below represents the first letter of the repository name.
 ### 📦 [livexords-nw](https://github.com/livexords-nw/livexords-nw)  
 > 🌟 8 stars • 🔄 Updated: 2025-04-15 • 📅 Created: 2024-11-09  
 > 📝 Config files for my GitHub profile.  
-> 🧾 Commits: 84
+> 🧾 Commits: 85
 
 
 ## M
