@@ -12,7 +12,7 @@ Each section below represents the first letter of the repository name.
 > 🧾 Commits: 23
 
 ## 🛠️ Most Committed Repo: [livexords-nw](https://github.com/livexords-nw/livexords-nw)
-> 🧾 116 commits
+> 🧾 117 commits
 > 📝 Config files for my GitHub profile.
 > 🌟 8 stars
 
@@ -28,7 +28,7 @@ Each section below represents the first letter of the repository name.
 > 🧾 Commits: 52
 
 ### 📦 [animix-bot](https://github.com/livexords-nw/animix-bot)  
-> 🌟 24 stars • 🔄 Updated: 2025-04-17 • 📅 Created: 2024-12-24  
+> 🌟 25 stars • 🔄 Updated: 2025-04-17 • 📅 Created: 2024-12-24  
 > 📝 animix bot  
 > 🧾 Commits: 42
 
@@ -107,7 +107,7 @@ Each section below represents the first letter of the repository name.
 ### 📦 [livexords-nw](https://github.com/livexords-nw/livexords-nw)  
 > 🌟 8 stars • 🔄 Updated: 2025-04-17 • 📅 Created: 2024-11-09  
 > 📝 Config files for my GitHub profile.  
-> 🧾 Commits: 116
+> 🧾 Commits: 117
 
 
 ## M
