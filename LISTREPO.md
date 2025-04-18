@@ -7,12 +7,12 @@ Each section below represents the first letter of the repository name.
 
 <!-- START -->
 ## 🏆 Most Starred Repo: [fishingfrenzy-bot](https://github.com/livexords-nw/fishingfrenzy-bot)
-> 🌟 26 stars
+> 🌟 27 stars
 > 📝 Fishing Frenzy Automation
 > 🧾 Commits: 25
 
 ## 🛠️ Most Committed Repo: [livexords-nw](https://github.com/livexords-nw/livexords-nw)
-> 🧾 140 commits
+> 🧾 141 commits
 > 📝 Config files for my GitHub profile.
 > 🌟 8 stars
 
@@ -28,7 +28,7 @@ Each section below represents the first letter of the repository name.
 > 🧾 Commits: 52
 
 ### 📦 [animix-bot](https://github.com/livexords-nw/animix-bot)  
-> 🌟 25 stars • 🔄 Updated: 2025-04-17 • 📅 Created: 2024-12-24  
+> 🌟 26 stars • 🔄 Updated: 2025-04-18 • 📅 Created: 2024-12-24  
 > 📝 animix bot  
 > 🧾 Commits: 42
 
@@ -40,7 +40,7 @@ Each section below represents the first letter of the repository name.
 
 ## B
 ### 📦 [blum-bot](https://github.com/livexords-nw/blum-bot)  
-> 🌟 18 stars • 🔄 Updated: 2025-04-17 • 📅 Created: 2025-03-15  
+> 🌟 19 stars • 🔄 Updated: 2025-04-18 • 📅 Created: 2025-03-15  
 > 📝 Blum Automation  
 > 🧾 Commits: 24
 
@@ -76,7 +76,7 @@ Each section below represents the first letter of the repository name.
 > 🧾 Commits: 6
 
 ### 📦 [fishingfrenzy-bot](https://github.com/livexords-nw/fishingfrenzy-bot)  
-> 🌟 26 stars • 🔄 Updated: 2025-04-17 • 📅 Created: 2025-02-01  
+> 🌟 27 stars • 🔄 Updated: 2025-04-18 • 📅 Created: 2025-02-01  
 > 📝 Fishing Frenzy Automation  
 > 🧾 Commits: 25
 
@@ -102,12 +102,12 @@ Each section below represents the first letter of the repository name.
 ### 📦 [lib-mix-animix](https://github.com/livexords-nw/lib-mix-animix)  
 > 🌟 6 stars • 🔄 Updated: 2025-04-18 • 📅 Created: 2025-04-16  
 > 📝 Library combination animix  
-> 🧾 Commits: 35
+> 🧾 Commits: 37
 
 ### 📦 [livexords-nw](https://github.com/livexords-nw/livexords-nw)  
 > 🌟 8 stars • 🔄 Updated: 2025-04-18 • 📅 Created: 2024-11-09  
 > 📝 Config files for my GitHub profile.  
-> 🧾 Commits: 140
+> 🧾 Commits: 141
 
 
 ## M
